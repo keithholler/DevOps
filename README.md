@@ -21,6 +21,10 @@ Post,
 Put by Id,
 Delete by Id
 
+To start enter in your terminal:
+npm run start.
+Running on http://localhost:3000/ingredients
+
 Thank you Enjoy!
 
 
