@@ -1,0 +1,19 @@
+{
+  "name": "work3",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Keith Holler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
