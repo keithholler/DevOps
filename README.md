@@ -14,15 +14,18 @@ the server would restart.
 As long as you have mongodb installed on you computer and your Envirenment Variable Path updated to the mongodb Bin folder you
 will be able to run the application from any computer all IP address have been whtelisted.
 
-You can use Postman to test the routes:
-Get,
-Get by ID,
-Post,
-Put by Id,
+
+You can use Postman to test the routes:<br />
+Get <br />
+Get by ID<br />
+Post<br />
+Put by Id<br />
 Delete by Id
 
-To start enter in your terminal:
-npm run start.
+To start<br />
+Pull or Download the branch<br />
+In you terminal run "npm install" to install dependencies<br />
+npm run start.<br />
 Running on http://localhost:3000/ingredients
 
 Thank you Enjoy!
